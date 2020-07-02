@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-Gem::Specification.new do |spec|
+Gem::Specication.new do |spec|
   spec.name          = "koprulu-theme"
   spec.version       = "0.1.0"
   spec.authors       = ["Angel"]
